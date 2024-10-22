@@ -1,1 +1,2 @@
 # The-landing-page
+This is the second project of the odin project in which we were needed to make a design given by them. I have made a tribute page to ms  dhoni in order to acheive that design given by the authors.
